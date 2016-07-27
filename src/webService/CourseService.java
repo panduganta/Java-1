@@ -11,7 +11,7 @@ import com.google.gson.Gson;
 import dto.Course;
 import model.AccessManager;
 
-@Path("/courseService")
+@Path("/courseServic")
 public class CourseService {
 	@GET
 	@Path("/courses")
